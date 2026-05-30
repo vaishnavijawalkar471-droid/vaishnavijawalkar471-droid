@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Open Source Contributions & React-based Projects](https://github.com/souma9830/FixNearby)
 
-- 🌱 I’m currently learning **React.js, APIs, Git/GitHub, AI/ML, Data Analytics & Web Technologies**
+- 🌱 I’m currently learning **React.js, APIs, Git/GitHub, AI/ML, Data Analytics & Web Technologies** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/vaishnavijawalkar471-droid](https://github.com/vaishnavijawalkar471-droid)
 
