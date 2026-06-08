@@ -1,5 +1,5 @@
  <h1 align="center"> Hello, I am Vaishnavi Jawalkar </h1>   
-<h3 alvaishnavijawalkar471-droid&" alt="vaishnavijawalkar471-droidre Data Analyst</h3>  
+<h3 alvaishnavijawalkar471-droid&" alt="vaishnavijawalkar471-droidre Data Analyst</h3>   
   
  <p align="left"> <a href="https://twitter.com/vaishnavij471" target="blank"><img src="https://img.shields.io/twitter/follow/vaishnavij471?logo=twitter&style=for-the-badge" alt="vaishnavij471" /></a> </p>  
  
