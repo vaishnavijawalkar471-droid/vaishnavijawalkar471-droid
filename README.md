@@ -3,7 +3,7 @@
      
  <p align="left"> <a href="https://twitter.com/vaishnavij471" target="blank"><img src="https://img.shields.io/twitter/follow/vaishnavij471?logo=twitter&style=for-the-badge" alt="vaishnavij471" /></a> </p>  
  
-- 🔭 I’m currently working on [Open Source Contributions & React-based Projects](https://github.com/souma9830/FixNearby)
+- 🔭 I’m currently working on [Open Source Contributions & React-based Projects](https://github.com/souma9830/FixNearby) 
 
 - 🌱 I’m currently learning **React.js, APIs, Git/GitHub, AI/ML, Data Analytics & Web Technologies**  
 
